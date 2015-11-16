@@ -1,15 +1,14 @@
 {
   "name": "open-weather-map",
+  "version": "0.0.0",
   "authors": [
-    "Tenkaklet <tenkaklet@gmail.com>"
+    "Benjamin White <benjamin.e.white1@gmail.com>"
   ],
-  "description": "",
-  "main": "",
   "moduleType": [
     "globals"
   ],
   "license": "MIT",
-  "homepage": "",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -18,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.7",
-    "angular-route": "~1.4.7"
+    "angular": "~1.2.16",
+    "angular-route": "~1.2.16"
   }
 }
